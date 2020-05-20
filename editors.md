@@ -8,7 +8,7 @@
 - [Visual Studio Code, all languages](https://code.visualstudio.com)
 - [Visual Studio](https://visualstudio.microsoft.com/vs/)
 - [Pycharm, for Python](https://www.jetbrains.com/pycharm/)
-- [Intellij Idea, Java and Kotlin](https://www.jetbrains.com/idea/) 
+- [Intellij Idea, for Java and Kotlin](https://www.jetbrains.com/idea/) 
 
 ## Online Editors
 
