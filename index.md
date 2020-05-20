@@ -1,4 +1,4 @@
-Hello, world! This is a community site created by Theo Paris from [throw-out-error](https://github.com/throw-out-error) for finding all kinds of useful Programming Resources.
+Hello, world! This is a community site created by [throw-out-error](https://github.com/throw-out-error) for finding all kinds of useful Programming Resources.
 
 ## Contents
 
