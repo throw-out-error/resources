@@ -4,3 +4,4 @@ Hello, world! This is a community site created by [throw-out-error](https://gith
 
 - [Code Editors](/editors)
 - [Creative Coding](/creative-coding)
+- [Videos](/videos)
