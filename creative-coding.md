@@ -1,3 +1,5 @@
+# Creative Coding Resources 
+Credit goes to the [original author.](https://github.com/terkelg/awesome-creative-coding)
 
 ## Contents
 
