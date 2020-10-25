@@ -4,7 +4,7 @@ Hello, world! This is a community site created by [Throw Out Error](https://gith
 
 ## Contents
 
-- [Code Editors](https://github.com/throw-out-error/resources/editors)
-- [Creative Coding](https://github.com/throw-out-error/resources/creative-coding)
+- [Code Editors](https://github.com/throw-out-error/resources/editors.md)
+- [Creative Coding](https://github.com/throw-out-error/resources/creative-coding.md)
 - [Videos](https://github.com/throw-out-error/resources/videos)
 - [Homelab](https://github.com/throw-out-error/resources/homelab)
