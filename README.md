@@ -33,11 +33,15 @@ export interface Config {
 Lastly, you should define a variable that will be your typed path reference.
 ```typescript
 /** Typed Config Paths */
+import { typedPath as tp } from "typed-path";
+
 export const tc = tp<Config>();
 ```
 
 Now you can create the store:
 ```typescript
+import { FlashStore } from "flash-store";
+
 export const store = new FlashStore(storeDir);
 ```
 
