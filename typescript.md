@@ -32,7 +32,7 @@ export const tc = tp<Config>();
 
 Now you can create the store:
 ```typescript
-import { FlashStore } from "flash-store";
+import db from "quick.db";
 
 export const store = new db.table("config");
 ```
@@ -40,5 +40,5 @@ export const store = new db.table("config");
 and get a value:
 
 ```typescript:
-console.log(store.get(tc.user.age);
+console.log(store.get(tc.user.age.$path);
 ```
