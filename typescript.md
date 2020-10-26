@@ -6,8 +6,10 @@
 If you want to set up a key value store in typescript, this is one way to do it.
 First, install the following packages:
 
-- [flash-store](https://www.npmjs.com/package/flash-store) for the key value storage
+- [quick.db](https://github.com/lorencerri/quick.db) for the key value storage
 - [typed-path](https://www.npmjs.com/package/typed-path) for typed key compatibility
+
+You can use any map-like store that you want, but in this case I'm going to use quick.db which is a wrapper for sqlite.
 
 Next, you'll want to create an interface for your configuration/database:
 
@@ -32,7 +34,7 @@ Now you can create the store:
 ```typescript
 import { FlashStore } from "flash-store";
 
-export const store = new FlashStore(storeDir);
+export const store = new db.table("config");
 ```
 
 and get a value:
