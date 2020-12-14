@@ -7,3 +7,4 @@ Hello, world! This is a community site created by [Throw Out Error](https://gith
 - [Code Editors](/editors)
 - [Typescript](/typescript)
 - [Homelab](/homelab)
+- [Videos](/videos)
